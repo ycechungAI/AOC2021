@@ -1,4 +1,4 @@
-#AOC 2021 Attempt ycechung
+# AOC 2021 Attempt ycechung
 
 ## Description: My attempt at the Advent of Code Challenge 2021
 This is also part of my main deliverables for release 0.4 for OSD600 for Seneca College taught by David Humpd.
